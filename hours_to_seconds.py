@@ -7,4 +7,4 @@ hours = 2
 seconds_per_hours = 3600
 seconds = hours * seconds_per_hours
 # Print hours to seconds
-print("{hours} hour(s) is {seconds} seconds")
+print(f"{hours} hour(s) is {seconds} seconds")
